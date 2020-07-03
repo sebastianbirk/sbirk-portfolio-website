@@ -78,33 +78,26 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Contact Details</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
+						   {street}<br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
+                     {email}<br />
 					   </p>
 				   </div>
 
                <div className="widget widget_tweets">
-                  <h4 className="widget-title">Latest Tweets</h4>
+                  <h4 className="widget-title">Latest Updates</h4>
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        Currently I am working through Andrew Ng's Deep Learning Specialization on Coursera.
+                        Check it out, it is great to understand the underlying math of implementing neural networks
+                        <a href="#"> https://www.coursera.org/specializations/deep-learning</a>
                         </span>
-                        <b><a href="#">2 Days Ago</a></b>
-                     </li>
-                     <li>
-                        <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
-                        </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                        <b><a href="#">July 1, 2020</a></b>
                      </li>
                   </ul>
 		         </div>
