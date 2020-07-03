@@ -940,7 +940,7 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #551A8B; }
+footer a, footer a:visited { color: #11ABB0; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
@@ -961,7 +961,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #fff;
 }
 footer .copyright  li:first-child:before {
     display: none;
