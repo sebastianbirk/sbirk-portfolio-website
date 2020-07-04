@@ -31,11 +31,6 @@
         "name":"github",
         "url":"https://github.com/sebastianbirk",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"https://join.skype.com/invite/ijxBiOe4YdLe",
-        "className":"fa fa-skype"
       }
     ]
   },
