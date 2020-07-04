@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"My most prominent skills are:",
+    "skillmessage":"I am a tinkerer and am always interested in trying out new technologies but these are the ones where i am confident that I have substantial knowledge:",
     "education":[
       {
         "school":"ESADE Business School (#5 QS Business Analytics World University Rankings 2019)",
@@ -90,36 +90,134 @@
     ],
     "skills":[
       {
+        "name":"Git",
+        "description":"",
+        "image":"git.jpg"
+      },
+      {
         "name":"Python",
-        "level":"80%"
+        "description":"",
+        "image":"python.jpg"
       },
       {
         "name":"Spark",
-        "level":"60%"
+        "description":"",
+        "image":"spark.jpg"
       },
       {
         "name":"R",
-        "level":"20%"
-      },
-      {
-        "name":"Databricks",
-        "level":"80%"
+        "description":"",
+        "image":"r.jpg"
       },
       {
         "name":"Azure",
-        "level":"70%"
+        "description":"",
+        "image":"azure.jpg"
       },
       {
-        "name":"Amazon Web Services",
-        "level":"30%"
+        "name":"Azure ML",
+        "description":"",
+        "image":"azure-ml.jpg"
       },
       {
-        "name":"Statistics",
-        "level":"80%"
+        "name":"AWS",
+        "description":"",
+        "image":"aws.jpg"
       },
       {
-        "name":"Machine Learning",
-        "level":"80%"
+        "name":"Sagemaker",
+        "description":"",
+        "image":"sagemaker.jpg"
+      },
+      {
+        "name":"Databricks",
+        "description":"",
+        "image":"databricks.jpg"
+      },
+      {
+        "name":"VS Code",
+        "description":"",
+        "image":"vscode.jpg"
+      },
+      {
+        "name":"Jupyter",
+        "description":"",
+        "image":"jupyter.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"",
+        "image":"heroku.jpg"
+      },
+      {
+        "name":"Numpy",
+        "description":"",
+        "image":"numpy.jpg"
+      },
+      {
+        "name":"Pandas",
+        "description":"",
+        "image":"pandas.jpg"
+      },
+      {
+        "name":"Koalas",
+        "description":"",
+        "image":"koalas.jpg"
+      },
+      {
+        "name":"Delta Lake",
+        "description":"",
+        "image":"delta.jpg"
+      },
+      {
+        "name":"Ml Flow",
+        "description":"",
+        "image":"mlflow.jpg"
+      },
+      {
+        "name":"Keras",
+        "description":"",
+        "image":"keras.jpg"
+      },
+      {
+        "name":"Tensorflow",
+        "description":"",
+        "image":"tensorflow.jpg"
+      },
+      {
+        "name":"Pytorch",
+        "description":"",
+        "image":"pytorch.jpg"
+      },
+      {
+        "name":"Matplotlib",
+        "description":"",
+        "image":"matplotlib.jpg"
+      },
+      {
+        "name":"Seaborn",
+        "description":"",
+        "image":"seaborn.jpg"
+      },
+      {
+        "name":"Plotly",
+        "description":"",
+        "image":"plotly.jpg"
+      },
+      {
+        "name":"Scikit-Learn",
+        "description":"",
+        "image":"sklearn.jpg"
+      },
+      {
+        "name":"XGBoost",
+        "description":"",
+        "image":"xgboost.jpg"
+      },
+      {
+        "name":"Shap",
+        "description":"",
+        "image":"shap.jpg"
       }
     ]
   },
