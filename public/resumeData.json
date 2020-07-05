@@ -218,7 +218,17 @@
         "name":"Shap",
         "description":"",
         "image":"shap.jpg"
-      }
+      },
+      {
+        "name":"Prophet",
+        "description":"",
+        "image":"prophet.jpg"
+      },
+      {
+        "name":"OpenAI",
+        "description":"",
+        "image":"openai.jpg"
+      },
     ]
   },
   "portfolio":{
