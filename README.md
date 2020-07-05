@@ -7,6 +7,7 @@ This repository contains the source code of my personal portfolio website which 
 Check out these resources which I used to create this website:
 - Creating React App: https://github.com/tbakerx/react-resume-template
 - Deployment to Heroku: https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08
+- Force SSL in Bluehost: https://my.bluehost.com/hosting/help/599
 
 # Hints
 
