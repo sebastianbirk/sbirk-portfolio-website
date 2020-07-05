@@ -228,7 +228,7 @@
         "name":"OpenAI",
         "description":"",
         "image":"openai.jpg"
-      },
+      }
     ]
   },
   "portfolio":{
