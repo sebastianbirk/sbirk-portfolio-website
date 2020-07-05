@@ -1,6 +1,6 @@
 # Description
 
-This repository contains the source code of my personal portfolio website which was created with react and is deployed to heroku. Continuous deployment is enabled and the website is connected to my custom domain sebastianbirk.com. The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the source code of my personal portfolio website which was created with react. The repository is connected to heroku where a dev site is deployed to sbirk-portfolio-website.herokuapp.com. Continuous deployment is enabled. My production site is hosted on bluehost.com and FileZilla is used to transfer the files. The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Resources
 
