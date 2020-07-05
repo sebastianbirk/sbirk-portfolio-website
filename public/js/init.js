@@ -152,7 +152,7 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "sendEmail.php",
+	      url: "../mailer.php",
 	      data: data,
 	      success: function(msg) {
 
