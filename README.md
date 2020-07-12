@@ -12,5 +12,5 @@ Check out these resources which I used to create this website:
 # Hints
 
 After cloning this repository, run `npm install`.
-For local debugging use `yarn build` and `yarn start`. This will run the app in the development mode.<br />
+For local debugging use `yarn build` and `yarn start`. This will run the app in the development mode.
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
