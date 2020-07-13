@@ -13,4 +13,5 @@ Check out these resources which I used to create this website:
 
 After cloning the repository run `yarn install` to install all required dependencies.</br>
 For local debugging use `yarn build` and `yarn start`. This will run the app in the development mode.</br>
-Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.</br>
+To check the site without cache, use https://sebastianbirk.com/?nocache=1.
