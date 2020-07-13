@@ -190,8 +190,8 @@ ul#nav li.current a { color: #F06000; }
 
 #about {
    background: #2B2B2B;
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 70px;
+   padding-bottom: 40px;
    overflow: hidden;
 }
 
@@ -239,8 +239,8 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 75px;
+   padding-bottom: 25px;
    overflow: hidden;
 }
 
@@ -424,8 +424,8 @@ img.skill {
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
-   padding-bottom: 60px;
+   padding-top: 75px;
+   padding-bottom: 50px;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -662,8 +662,8 @@ call-to-action .button {
    overflow: hidden;
 }
 #testimonials .text-container {
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 75px;
+   padding-bottom: 55px;
 }
 #testimonials h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -801,8 +801,8 @@ call-to-action .button {
 
 #contact {
    background: #191919;
-   padding-top: 96px;
-   padding-bottom: 102px;
+   padding-top: 75px;
+   padding-bottom: 35px;
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
