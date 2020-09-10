@@ -1,6 +1,6 @@
 # Sebastian Birk Portfolio Website
 
-Check out my portfolio website: https://www.sebastianbirk.com
+Check out my portfolio website: https://www.sebastianbirk.com.
 
 ## Description
 
